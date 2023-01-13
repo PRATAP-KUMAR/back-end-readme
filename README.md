@@ -1,24 +1,16 @@
-
-
 <a name="readme-top"></a>
-
 <div align="center">
-
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
   <h3><b>README</b></h3>
-  
-
+  <hr/>
 </div>
-
 <div align="center">
-  <h3><a href="https://github.com/Amtresu/Rent-A-Car/">Link to the front-end repo</a></h3>
+  <h3><a href="https://github.com/Amtresu/Rent-A-Car/">Link to the FRONT-END Repo</a></h3>
+  <hr>
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
-
 
 # 📗 Table of Contents
 
