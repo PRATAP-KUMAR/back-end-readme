@@ -12,6 +12,7 @@
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
+- [Link to the front-end repo](https://github.com/Amtresu/Rent-A-Car)
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
