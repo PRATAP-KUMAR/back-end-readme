@@ -173,7 +173,7 @@ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- N/A as it is the school curriculum project
+- create different API's those are required for [Rent-A-Car](https://github.com/Amtresu/Rent-A-Car/) Web application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +199,7 @@ If you like this project kindly give a start to this repository
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank [Microverse](https://www.microverse.org/)  
+- We would like to thank [Microverse](https://www.microverse.org/)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,11 +209,11 @@ If you like this project kindly give a start to this repository
 
 - **What is this repo for**
 
-  - Its part of Microverse Currculum for Ruby on Rails Capstone Project (Budget App)
+  - Its part of Microverse Currculum for Ruby on Rails Final Capstone Project (book-an-appointment)
 
 - **How long did you take to build this web app**
 
-  - 3 Days
+  - 3 weeks
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
