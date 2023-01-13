@@ -1,3 +1,5 @@
+
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -6,13 +8,19 @@
   <br/>
 
   <h3><b>README</b></h3>
+  
 
+</div>
+
+<div align="center">
+  <h3><a href="https://github.com/Amtresu/Rent-A-Car/">Link to the front-end repo</a></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
+
+
 # 📗 Table of Contents
-- [Link to the front-end repo](https://github.com/Amtresu/Rent-A-Car)
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
