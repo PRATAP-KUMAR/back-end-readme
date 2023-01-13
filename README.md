@@ -36,9 +36,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 Book an Appointment for Cars<a name="about-project"></a>
 
-**Budget App** is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+**Book an Appointment for Cars** is a backend application used for creating API for [Rent-A-Car](https://github.com/Amtresu/Rent-A-Car/) Web application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,9 +62,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- register and log in, so that the data is private to them.
-- introduce new transactions associated with a category.
-- see the money spent on each category.
+- create different API end points those are required for Rent-a-Car web app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,8 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- [Loom Video Link](https://www.loom.com/share/3dee4d0a6097447ba72065ec0c1a5325)-->
-[Loom Video Link](https://www.loom.com/share/1c0ff9e47bff4637bde4357de10cc9ff)
+[Loom Video Link - not applicable yet](https://www.loom.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,8 +80,8 @@
 
 To get a local copy up and running, follow these steps.
 ````
-git clone https://github.com/PRATAP-KUMAR/budgetapp
-cd budgetapp
+git clone https://github.com/PRATAP-KUMAR/book-an-appointment
+cd book-an-appointment
 ls
 ````
 
@@ -132,19 +129,43 @@ rspec
 
 ### Deployment
 
-- [This Budget App is Deployed through Render](https://budgetapp-07il.onrender.com/)
+- [This Book an Appointment API is Deployed through Render](https://final-capstone-api.onrender.com/cars)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="author"></a>
+
+👤 **Conor Joseph Follette**
+
+- GitHub: [@githubhandle](https://github.com/https://github.com/Amtresu)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
+
+👤 **David Kasilia Mwanzia**
+
+- GitHub: [@githubhandle](https://github.com/https://github.com/David-Kasilia)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
+
+👤 **Kwaleyela Musilizo Ikafa**
+
+- GitHub: [@githubhandle](https://github.com/https://github.com/Kwaleyela-Ikafa)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
 
 👤 **PRATAP PANABAKA**
 
-- GitHub: [@githubhandle](https://github.com/PRATAP-KUMAR)
-- Twitter: [@twitterhandle](https://twitter.com/PRATAP_TWT)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/pratap-kumar-panabaka)
+- GitHub: [@PRATAP-KUMAR](https://github.com/PRATAP-KUMAR)
+- Twitter: [@PRATAP_TWT](https://twitter.com/PRATAP_TWT)
+- LinkedIn: [@pratap-kumar-panabaka](https://linkedin.com/in/pratap-kumar-panabaka)
+
+👤 **William Raga**
+
+- GitHub: [@githubhandle](https://github.com/https://github.com/itsmraga-hub)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +200,6 @@ If you like this project kindly give a start to this repository
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank [Microverse](https://www.microverse.org/)  
-- Credits to [Gregoire Vella](https://www.behance.net/gregoirevella)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
